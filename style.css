@@ -12,10 +12,24 @@ body {
   }
 
   section {
-    display: -webkit-flex;
     display: flex;
-    width: 100vw;
-    height: 100vh;
+    justify-content: center;
     align-items: center;
+
+    width: 100%;
+    height: 100vh;
+    
+    
   }
+
+.starterline {
+  display: flex;
+  align-items: center;
+  
+  padding: 6px 16px;
+  margin-bottom: 20px;
+  background-color: #232529;
+  border-radius: 8px;
+  box-shadow: inset 2px 2px rgba(0, 0, 0, 0.30);
+}
 
