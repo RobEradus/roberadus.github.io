@@ -1,6 +1,13 @@
 body {
     font-family: Verdana;
     color: #ffffff;
-    font-size: 11px;
+    font-size: 12px;
     line-height: 16px;
+
+    background-color: #292b2f;
   }
+
+  p {
+    color: #ffffff;
+  }
+
