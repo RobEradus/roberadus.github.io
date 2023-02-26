@@ -5,7 +5,19 @@ body {
     line-height: 16px;
 
     background-color: #292b2f;
+
+    background-image: radial-gradient(rgba(255, 255, 255, 0.156) 1px, transparent 0);
+    background-size: 40px 40px;
+    background-position: -19px -19px;
   }
+
+
+  body {
+    background-image: radial-gradient(black 1px, transparent 0);
+    background-size: 40px 40px;
+    background-position: -19px -19px;
+  }
+
 
   p {
     color: #ffffff;
